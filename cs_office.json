@@ -1,0 +1,110 @@
+[
+  {
+    "name": ["Unnamed", "Trash"],
+    "weapon": "weapon_hegrenade",
+    "position": [1013.6015014648, -667.98510742188, -159.96873474121],
+    "viewangles": [-3.8500397205353, 97.929946899414],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Unnamed", "1WAY"],
+    "weapon": "weapon_molotov",
+    "position": [505.24758911133, 18.019502639771, -111.96875],
+    "viewangles": [2.7806649208069, 66.531730651855],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Unnamed", "1WAY"],
+    "weapon": "weapon_hegrenade",
+    "position": [505.31753540039, 18.061145782471, -111.96875],
+    "viewangles": [2.8692650794983, 66.619369506836],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Unnamed", "Trash"],
+    "weapon": "weapon_molotov",
+    "position": [1013.5385131836, -667.82604980469, -159.96875],
+    "viewangles": [-4.3552961349487, 98.0283203125],
+    "grenade": {
+      "run": 32
+    }
+  },
+  {
+    "name": ["Unnamed", "dian ti jian"],
+    "weapon": "weapon_molotov",
+    "position": [1268.5035400391, -1139.4477539063, -253.62837219238],
+    "viewangles": [-17.88529586792, 125.99761199951]
+  },
+  {
+    "name": ["Unnamed", "dian ti jian"],
+    "weapon": "weapon_hegrenade",
+    "position": [1268.4782714844, -1139.5281982422, -253.64616394043],
+    "viewangles": [-17.940338134766, 126.05704498291],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Unnamed", "FD"],
+    "weapon": "weapon_molotov",
+    "position": [-90.698837280273, -1059.5303955078, -223.96875],
+    "viewangles": [-9.8318090438843, 70.128913879395],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["Unnamed", "FD"],
+    "weapon": "weapon_hegrenade",
+    "position": [-85.095596313477, -1031.63671875, -223.96875],
+    "viewangles": [-9.1718397140503, 70.049423217773],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["Unnamed", "1way"],
+    "weapon": "weapon_molotov",
+    "position": [1002.0337524414, 1001.8805541992, -159.96875],
+    "viewangles": [-3.2867712974548, -19.772123336792],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["Unnamed", "Sofa"],
+    "weapon": "weapon_molotov",
+    "position": [1044.3145751953, 1039.9730224609, -159.96875],
+    "viewangles": [-3.8367650508881, -13.77713394165]
+  },
+  {
+    "name": ["Unnamed", "FD-50"],
+    "weapon": "weapon_hegrenade",
+    "position": [752.98376464844, -436.04254150391, -159.96875],
+    "viewangles": [-7.2466287612915, -52.881072998047]
+  },
+  {
+    "name": ["Unnamed", "T Spawn 1w"],
+    "weapon": "weapon_molotov",
+    "position": [1053.1860351563, 880.0966796875, -159.96875],
+    "viewangles": [-8.6106042861938, 30.97190284729],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["Unnamed", "mid"],
+    "weapon": "weapon_hegrenade",
+    "position": [1435.8874511719, -304.20138549805, -159.96875],
+    "viewangles": [-1.9799870252609, 136.50183105469],
+    "grenade": {
+      "run": 12
+    }
+  }
+]

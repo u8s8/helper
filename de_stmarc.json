@@ -1,0 +1,41 @@
+[
+  {
+    "name": ["a", "a"],
+    "description": "a",
+    "weapon": "weapon_molotov",
+    "position": [-5928.0346679688, 7032.4389648438, 32.03125],
+    "viewangles": [-16.229843139648, -177.69413757324],
+    "grenade": {
+      "run": 30
+    }
+  },
+  {
+    "name": ["Unnamed", "site"],
+    "weapon": "weapon_hegrenade",
+    "position": [-8026.337890625, 6854.1806640625, 32.03125],
+    "viewangles": [-10.73494720459, 3.9872009754181],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Unnamed", "site"],
+    "weapon": "weapon_molotov",
+    "position": [-7997.9575195313, 6874.6201171875, 32.03125],
+    "viewangles": [-19.965721130371, 3.8196971416473],
+    "duck": true
+  },
+  {
+    "name": ["a", "a"],
+    "description": "a",
+    "weapon": "weapon_molotov",
+    "position": [-6448.4384765625, 6320.9990234375, 40.03125],
+    "viewangles": [-0.95621234178543, 158.23989868164],
+    "grenade": {
+      "strength": 0.5,
+      "run": 34,
+      "recovery_jump": true,
+      "jump": true
+    }
+  }
+]

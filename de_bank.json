@@ -1,0 +1,55 @@
+[
+  {
+    "name": ["Unnamed", "Car"],
+    "weapon": "weapon_molotov",
+    "position": [-602.70733642578, -538.08148193359, 188.03125],
+    "viewangles": [-1.5509853363037, 5.4979057312012],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Unnamed", "Car"],
+    "weapon": "weapon_hegrenade",
+    "position": [-534.5927734375, -562.27288818359, 188.03125],
+    "viewangles": [-1.2637950181961, 8.9420957565308],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["Unnamed", "S.W.A.T"],
+    "weapon": "weapon_molotov",
+    "position": [-395.82653808594, -566.34906005859, 188.03125],
+    "viewangles": [-13.662323951721, 3.1367046833038],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["a", "a"],
+    "description": "a",
+    "weapon": "weapon_molotov",
+    "position": [1760.3032226563, -514.64190673828, -31.960161209106],
+    "viewangles": [-3.9316012859344, 172.27920532227],
+    "grenade": {
+      "run": 34,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["aa", "aa"],
+    "description": "aa",
+    "weapon": "weapon_molotov",
+    "position": [1632.5137939453, -689.61676025391, -29.989875793457],
+    "viewangles": [-5.7167530059814, 177.5122833252],
+    "grenade": {
+      "run": 43,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  }
+]
