@@ -1,0 +1,200 @@
+[
+  {
+    "name": ["xia shui dao ", "xia shui dao"],
+    "weapon": "weapon_molotov",
+    "position": [1517.9790039063, 671.39715576172, 137.46946716309],
+    "viewangles": [-20.722820281982, -177.8888092041]
+  },
+  {
+    "name": ["lian jie", "lian jie"],
+    "weapon": "weapon_molotov",
+    "position": [1188.7872314453, 488.33480834961, 112.27153015137],
+    "viewangles": [-42.050590515137, 59.712413787842],
+    "grenade": {
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["mid", "mid"],
+    "weapon": "weapon_hegrenade",
+    "position": [1645.642578125, 1228.7667236328, 161.28997802734],
+    "viewangles": [11.10142993927, -123.24817657471],
+    "grenade": {
+      "run": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Spools", "Spools"],
+    "weapon": "weapon_molotov",
+    "position": [474.18118286133, 2034.3597412109, 203.03125],
+    "viewangles": [-21.251476287842, 86.281829833984]
+  },
+  {
+    "name": ["CT 1", "CT 1"],
+    "weapon": "weapon_molotov",
+    "position": [549.28936767578, 1983.3619384766, 128.03125],
+    "viewangles": [-42.027172088623, 61.429950714111],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT 2", "CT 2"],
+    "weapon": "weapon_molotov",
+    "position": [691.02374267578, 2259.8857421875, 139.05490112305],
+    "viewangles": [-49.269580841064, 51.2799949646],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["B shuang jia", "B shuang jia"],
+    "weapon": "weapon_hegrenade",
+    "position": [68.867897033691, 1133.0472412109, 90.452751159668],
+    "viewangles": [-24.552532196045, 60.837383270264],
+    "grenade": {
+      "run": 55
+    }
+  },
+  {
+    "name": ["CT", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [697.83148193359, 2536.8442382813, 136.02760314941],
+    "viewangles": [14.12494468689, 26.486137390137],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["banana", "banana"],
+    "weapon": "weapon_hegrenade",
+    "position": [484.68411254883, 2611.0339355469, 160.03125],
+    "viewangles": [-60.364070892334, -89.513519287109],
+    "grenade": {
+      "run": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": ["banana", "banana"],
+    "weapon": "weapon_molotov",
+    "position": [484.68145751953, 2610.9562988281, 160.03125],
+    "viewangles": [-60.416912078857, -89.936454772949],
+    "grenade": {
+      "run": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": ["xia shui dao", "xia shui dao"],
+    "weapon": "weapon_molotov",
+    "position": [1517.9532470703, 313.4235534668, 135.92498779297],
+    "viewangles": [-4.0707640647888, 154.3441619873],
+    "grenade": {
+      "run": 14
+    }
+  },
+  {
+    "name": ["henshuai", "henshuai"],
+    "weapon": "weapon_molotov",
+    "position": [1375.90234375, 235.34994506836, 127.83880615234],
+    "viewangles": [10.835322380066, -2.7722773551941],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "recovery_yaw": 91,
+      "run_yaw": -68,
+      "jump": true
+    }
+  },
+  {
+    "name": ["shuai3", "shuai3"],
+    "weapon": "weapon_molotov",
+    "position": [2151.6293945313, 1010.030090332, 159.89392089844],
+    "viewangles": [19.684997558594, -105.63497924805],
+    "grenade": {
+      "run": 11,
+      "recovery_jump": true,
+      "recovery_yaw": -156,
+      "run_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["lian jie", "lian jie"],
+    "weapon": "weapon_hegrenade",
+    "position": [788.16583251953, 274.7177734375, 89.552848815918],
+    "viewangles": [-23.841653823853, 41.527038574219]
+  },
+  {
+    "name": ["lian jie", "lian jie"],
+    "weapon": "weapon_molotov",
+    "position": [823.77197265625, 295.54104614258, 87.630195617676],
+    "viewangles": [-25.216527938843, 42.422664642334]
+  },
+  {
+    "name": ["hen shuai", "hen shuai"],
+    "weapon": "weapon_hegrenade",
+    "position": [1375.6359863281, 235.24084472656, 127.82070922852],
+    "viewangles": [15.593082427979, -6.2621369361877],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "recovery_yaw": 91,
+      "run_yaw": -68,
+      "jump": true
+    }
+  },
+  {
+    "name": ["1box", "1box"],
+    "weapon": "weapon_molotov",
+    "position": [616.28381347656, 2063.5578613281, 132.91539001465],
+    "viewangles": [-50.332260131836, 100.65896606445],
+    "grenade": {
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "1way ct "],
+    "weapon": "weapon_molotov",
+    "position": [575.4609375, 2468.1892089844, 291.03125],
+    "viewangles": [-16.653623580933, 13.709886550903],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Unnamed", "backcoffin"],
+    "weapon": "weapon_molotov",
+    "position": [586.42004394531, 1873.1700439453, 133.19096374512],
+    "viewangles": [-32.466632843018, 90.965362548828],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "A sit"],
+    "weapon": "weapon_hegrenade",
+    "position": [1717.3129882813, -108.98176574707, 130.72137451172],
+    "viewangles": [-7.4822130203247, 48.118843078613],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Unnamed", "A1"],
+    "weapon": "weapon_hegrenade",
+    "position": [2217.5205078125, 450.20715332031, 140.75184631348],
+    "viewangles": [12.370254516602, -132.26995849609],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  }
+]
